@@ -1,0 +1,3 @@
+Projects is a similar concept to Local by Flywheel. I wanted somthing to help myself organize all my projects and client projects on my computer in one place. The command line was hard and organizing the projects by folder was nice, however I wanted software where I can add notes, customize and keep organized all in one place. 
+
+If you would like to help with this project please email me at bcw1995@gmail.com
